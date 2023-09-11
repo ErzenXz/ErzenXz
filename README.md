@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://erzen.tech/category/portfolio/](https://erzen.tech/category/portfolio/)
+- 👨‍💻 All of my projects are available at [https://erzen.tech/projects/](https://erzen.tech/projects/)
 
 - 📝 I regularly write articles on [erzen.tech](erzen.tech)
 
