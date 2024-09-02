@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erzen Krasniqi</h1>
-<h3 align="center">A passionate Web Developer from Kosovo</h3>
+<h3 align="center">A passionate Software Developer from Kosovo</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erzenxz&label=Profile%20views&color=0e75b6&style=flat" alt="erzenxz" /> </p>
 
