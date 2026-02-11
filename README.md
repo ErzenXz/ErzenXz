@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in Kosovo
-* 🖥️  See my portfolio at [Portfolio](http://erzen.tk)
+* 🖥️  See my portfolio at [Portfolio](http://erzen.dev)
 * ✉️  You can contact me at [erzen.krasniqi04@gmail.com](mailto:erzen.krasniqi04@gmail.com)
 
 ### Skills
