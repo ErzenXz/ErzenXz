@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-* 🌍  I'm based in Kosovo
 * 🖥️  See my portfolio at [Portfolio](http://erzen.dev)
 * ✉️  You can contact me at [erzen.krasniqi04@gmail.com](mailto:erzen.krasniqi04@gmail.com)
 
