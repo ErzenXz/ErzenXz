@@ -19,7 +19,6 @@ My work spans AI products, digital health, public-sector systems, internal platf
 
 | Project | What it demonstrates |
 | --- | --- |
-| [**Quad Chat**](https://quad.chat) | A multi-provider AI workspace built around model choice, powerful tools, multimodal input, and resilient conversations. |
 | [**OpenCel**](https://github.com/ErzenXz/opencel) | An open-source, self-hosted deployment platform with GitHub-based builds, preview deployments, logs, encrypted environment variables, and production promotion. |
 | [**Overseer**](https://github.com/Quad-Labs-LLC/overseer) | A self-hosted AI agent platform for working with servers, files, tools, and automations through web, Discord, and Telegram interfaces. |
 | [**Bedrock**](https://github.com/ErzenXz/bedrock) | An API-first infrastructure layer for uploads, background jobs, rate limiting, feature flags, webhooks, usage metering, and notifications. |
